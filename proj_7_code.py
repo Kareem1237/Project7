@@ -1,4 +1,4 @@
-import streamlit as st
+
 
 # -*- coding: utf-8 -*-
 """
@@ -35,6 +35,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
 from sklearn.tree import DecisionTreeClassifier
 from PIL import Image
+import streamlit as st
 st.set_page_config(
      page_title="Personal loan campaign",
      page_icon='🏦',
