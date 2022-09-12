@@ -36,13 +36,13 @@ from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
 from sklearn.tree import DecisionTreeClassifier
 from PIL import Image
 import streamlit as st
-st.set_page_config(
-     page_title="Personal loan campaign",
-     page_icon='🏦',
-     layout="wide",
-     initial_sidebar_state="expanded",
-      )
-st.set_option('deprecation.showPyplotGlobalUse', False)
+#st.set_page_config(
+     #page_title="Personal loan campaign",
+     #page_icon='🏦',
+     #layout="wide",
+     #initial_sidebar_state="expanded",
+      #)
+#st.set_option('deprecation.showPyplotGlobalUse', False)
 image=Image.open(r"./personal_loans.jpg")
 
 
