@@ -34,7 +34,6 @@ from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
 from sklearn.tree import DecisionTreeClassifier
 import streamlit as st
 from PIL import Image
-
 st.set_page_config(
      page_title="Personal loan campaign",
      page_icon='🏦',
