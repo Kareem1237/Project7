@@ -1,5 +1,5 @@
 
-# Supervised Machine Learning: Will a client take a personal loan?
+# Supervised Machine Learning: Will a client take a personal loan? :bank:
 
 Last year, Thera bank offered its clients a pesonal loan in order convert its liability clients into personal loan takers while retainig them as depositors.
 With the data provided, we implement different supervised machine learning algorithims to predict whether a client will take a personal loan if offered.
